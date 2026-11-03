@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "credit": "MickyTEC",
+  "processing": {
+    "maxArtworkEdge": 1024,
+    "maxProfileEdge": 384,
+    "jpegQuality": 82,
+    "method": "deterministic resize and text overlay; no AI generation",
+    "metadata": "new raster bitmap; no source EXIF/XMP/IPTC/text properties copied",
+    "artworkWatermark": "Interior placement per composition; MickyTEC fill opacity approximately 25%; no background panel; rotated -12 degrees"
+  },
+  "artworks": [
+    {
+      "filename": "01_male_portrait.jpg",
+      "width": 660,
+      "height": 1024,
+      "sha256": "875e4ca9967597fdc887d68ddc47371340d42ee90d8a25db6f2cc4a848d402c4",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 215,
+        "y": 809,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.52,
+        "centerY": 0.84,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "02_tactical_fullbody.jpg",
+      "width": 725,
+      "height": 1024,
+      "sha256": "5a9ee14e67a7eb5159f5d93f86354415291cc20510b40342ab0f392396157e6e",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 357,
+        "y": 594,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.67,
+        "centerY": 0.63,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "03_tactical_helmet_portrait.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sha256": "21d567df7d67d96a994c300d37994a59fcac0c24dc3243274e26b7ac03a52f61",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 404,
+        "y": 788,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.52,
+        "centerY": 0.82,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "04_character_lineart_sketch.jpg",
+      "width": 669,
+      "height": 1024,
+      "sha256": "80339265791bfbc844666f8826b41188745558f866b1958eca9f6cc40918f3f1",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 220,
+        "y": 727,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.52,
+        "centerY": 0.76,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#233047"
+      }
+    },
+    {
+      "filename": "05_hooded_fantasy_design.jpg",
+      "width": 634,
+      "height": 1024,
+      "sha256": "39eddb07caeae2c7ed779b2bf3358c6aca9fe678c72a81b84341537cdf4a731d",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 176,
+        "y": 747,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.48,
+        "centerY": 0.78,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "06_blue_hair_fullbody.jpg",
+      "width": 722,
+      "height": 1024,
+      "sha256": "008ff860491e33ef3e3eaa77a0078df8bd4923e92d32ba1c1d38c565bf9158de",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 233,
+        "y": 614,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.5,
+        "centerY": 0.65,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#233047"
+      }
+    },
+    {
+      "filename": "07_pink_blue_character_duo.jpg",
+      "width": 1014,
+      "height": 1024,
+      "sha256": "97d6a400cd1ad5a2ddf2a23ed5d35f5f9712a46ac1ac33f461ddfecfeafe3c62",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 460,
+        "y": 747,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.58,
+        "centerY": 0.78,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "08_blue_hair_formal_illustration.jpg",
+      "width": 1024,
+      "height": 972,
+      "sha256": "75690aca80fd50cc0ac377b205b29f5c548108103cd414173503c1beaa789df8",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 312,
+        "y": 687,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.43,
+        "centerY": 0.76,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#233047"
+      }
+    },
+    {
+      "filename": "09_blue_hair_poster.jpg",
+      "width": 655,
+      "height": 1024,
+      "sha256": "92f08afa5141002ea9855b83ec5fe44f74e6d873c4808159b0cb9cc39c6d61e1",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 199,
+        "y": 706,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.5,
+        "centerY": 0.74,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "10_blue_hair_reclining_scene.jpg",
+      "width": 1024,
+      "height": 662,
+      "sha256": "8839c62ffafe60b281582453499b726eaff05e9587c3e1c04e855ef087ac05b2",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 261,
+        "y": 425,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.38,
+        "centerY": 0.72,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "11_jellyfish_character_duo.jpg",
+      "width": 827,
+      "height": 1024,
+      "sha256": "446a4632202ea459175c850196c27a10614a5abcfcbe232ac010220668875a37",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 186,
+        "y": 788,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.38,
+        "centerY": 0.82,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    },
+    {
+      "filename": "12_blue_hair_character_concept.jpg",
+      "width": 724,
+      "height": 1024,
+      "sha256": "6414adc4b3cc65b4c03e2dec04b37198eef83a4dd28b1d5fc595664b5af431f8",
+      "credit": "MickyTEC",
+      "watermark": {
+        "x": 241,
+        "y": 501,
+        "width": 253,
+        "height": 92,
+        "fontSize": 56,
+        "centerX": 0.51,
+        "centerY": 0.54,
+        "rotationDeg": -12,
+        "opacity": 0.25,
+        "alpha": 64,
+        "outlineAlpha": 28,
+        "backgroundPanel": false,
+        "fill": "#F1F5F9"
+      }
+    }
+  ],
+  "profile": {
+    "filename": "mickytec-profile.png",
+    "width": 384,
+    "height": 351,
+    "sha256": "db8ee46c21aeeb9761d45551d9c947f54e2bb5835bf5461af13a4622666969bb",
+    "credit": "MickyTEC",
+    "watermark": {
+      "x": 152,
+      "y": 308,
+      "width": 81,
+      "height": 31,
+      "fontSize": 14
+    }
+  },
+  "identitySvgSha256": "7fd3605f986640ed385463310d3af01060ea0e26a0c2e3315286c8d1725a8906"
+}

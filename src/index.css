@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+    background-color: #070A14;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #070A14;
+    color: #F1F5F9;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    overflow-x: hidden;
+  }
+
+  /* Custom Dreamy Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #070A14;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1E293B;
+    border-radius: 4px;
+    border: 1px solid rgba(167, 139, 250, 0.2);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #334155;
+    border-color: rgba(56, 189, 248, 0.4);
+  }
+}
+
+@layer utilities {
+  .text-glow-aqua {
+    text-shadow: 0 0 16px rgba(56, 189, 248, 0.5);
+  }
+  .text-glow-violet {
+    text-shadow: 0 0 18px rgba(167, 139, 250, 0.6);
+  }
+  .text-glow-gold {
+    text-shadow: 0 0 14px rgba(229, 192, 123, 0.5);
+  }
+  .glass-card {
+    background: rgba(15, 22, 43, 0.72);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(147, 197, 253, 0.12);
+  }
+  .glass-card:hover {
+    border-color: rgba(167, 139, 250, 0.35);
+  }
+}
